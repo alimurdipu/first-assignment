@@ -13,6 +13,8 @@
 .nav-bar img {
   width: 70px;
   height: 70px;
+  border-radius: 35px;
+  border: 1px solid #9e081b;
 }
 .menu {
   display: flex;
@@ -208,9 +210,8 @@
 }
 .mail {
   padding: 11px 140px;
-  border-radius: 3px;
+  border-radius: 5px;
   border: 0;
-  text-align: left;
 }
 
 .main-footer {
